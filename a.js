@@ -62,6 +62,7 @@ function main() {
     numImages = allImages.length;
 }
 
+main();
 setInterval(main, 3000);
 
 function replaceImage(image){
